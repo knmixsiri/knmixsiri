@@ -31,6 +31,7 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=knmixsiri&theme=git-dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=knmixsiri&theme=carbonfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=knmixsiri&theme=city-lights)](https://git.io/streak-stats)
 
 ---
 ### Contact me
